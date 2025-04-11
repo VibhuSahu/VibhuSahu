@@ -1,88 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vibhu Sahu</h1>
 
 <p align="center">
-  <img src="https://github.com/vibhusahu/vibhusahu/blob/main/assets/Screenshot3.png" height="200px" alt="Profile Image"/>
-</p>
-
-<h3 align="center">BackEnd | WebFrontEnd | iOS | Android | Machine Learning</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vibhusahu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
-
----
-
-- 🔭 I’m currently working on [Uncle Jon (Encryption Software)](https://github.com/theVedu/Uncle-Jon)  
-- 🌱 Currently learning: **Django | Flask | Spring**  
-- 👯 Collaborating on: [Vedu Project](https://github.com/theVedu)  
-- 🤝 Need help with: [Vedu Project](https://github.com/theVedu)  
-- 💬 Ask me about: **Database Integration**  
-- 📫 Reach me at: **vibhu6751@gmail.com**  
-- ⚡ Fun fact: *I love machines!*
-
----
-
-<h3>Connect with me:</h3>
-
-<p>
-  <a href="https://twitter.com/sahuvibhu"><img src="https://img.shields.io/twitter/follow/sahuvibhu?logo=twitter&style=for-the-badge" alt="Twitter"/></a>
-</p>
-
-<p>
-  <a href="https://twitter.com/sahuvibhu"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" alt="Twitter"/></a>
-  <a href="https://www.linkedin.com/in/vibhu-sahu-0a434620b/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/></a>
-  <a href="https://www.kaggle.com/p0larbear"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" alt="Kaggle"/></a>
-  <a href="https://www.codechef.com/users/vibhu6751"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" alt="Codechef"/></a>
-  <a href="https://www.hackerrank.com/vibhu6751"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" alt="HackerRank"/></a>
-  <a href="https://leetcode.com/vibhu6751"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" alt="LeetCode"/></a>
-</p>
-
----
-
-<h3>Languages and Tools:</h3>
-
-<p>
-  <!-- Just sample icons, you can add/remove from this list -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" alt="Django" />
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40" alt="Flask" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" />
-  <!-- Add more if needed -->
+  <img src=".gitignore/Screenshot3.png" height="200px" alt="Profile Image"/>
 </p>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h1 align="center">Hi 👋, I'm Vibhu Sahu</h1>
-
-<img align="center" src=".gitignore/Screenshot3.png" height="200px">
 
 <h3 align="center">BackEnd|WebFrontEnd|IOS|ANDROID|MachineLearning</h3>
 
